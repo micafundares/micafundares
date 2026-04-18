@@ -8,7 +8,7 @@
 <p>🌱 Actualmente estoy aprendiendo </p> 
  <p> - Typescript</p> 
  <p> - Prisma ORM</p>
- <p> - PostreSQL</p>
+ <p> - PostgreSQL</p>
  <p> - Supabase </p>
 
  ## My Skills Include
