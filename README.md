@@ -10,6 +10,7 @@
  <p> - Prisma ORM</p>
  <p> - PostgreSQL</p>
  <p> - Supabase </p>
+ <p> - Tailwind CSS</p>
 
  ## My Skills Include
 
